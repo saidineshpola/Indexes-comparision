@@ -34,5 +34,4 @@ Includes a performance table and conclusion section highlighting trade-offs acro
 
 🔗 [Read the Notebook](https://github.com/saidineshpola/Indexes-comparision/blob/main/Notebook.ipynb)  
 📬 For questions or collaboration: [saidines12@gmail.com](mailto:saidines12@gmail.com)
-```
 
